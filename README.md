@@ -1,5 +1,14 @@
 
-### 👋 Hi, I’m Juan Giraldo<br/>
+markdown
+### 👋 Hi, I'm Juan Giraldo
+
+Full-Stack Developer from Medellín, Colombia — building functional, accessible systems with solid architecture.
+
+<p align="center">
+  <a href="https://portafolio-servicios-nine.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-05060a?style=for-the-badge&logoColor=white" alt="Portfolio" height="42" />
+  </a>
+</p>
 ---
 👨‍🎓 I’m currently studying Software Engineering in Medellín, where I’m gaining advanced knowledge in development and emerging technologies.<br/>
 ✈️ I love traveling and exploring new places, as I believe every location offers a fresh perspective and enriches my personal and professional life.<br/>
